@@ -41,7 +41,6 @@ body {
 }
 
 .section-testimonials {
-    margin: 2.4rem;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-auto-flow: dense;
